@@ -37,5 +37,5 @@ So how do interact with the Leap Motion? Easy, find your use case below and tink
 
 ### (future examples...)
 
-
+ 
 Contribute to the repo or suggest examples under https://github.com/leapmotion/LeapUnrealModules/issues
