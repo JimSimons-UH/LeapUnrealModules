@@ -12,7 +12,7 @@
 	],
 	"Plugins": [
 		{
-			"Name": "LeapMotion",
+			"Name": "UltraleapTracking",
 			"Enabled": true
 		},
 		{
