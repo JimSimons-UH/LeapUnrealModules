@@ -1,4 +1,4 @@
 [submodule "Plugins/LeapUnreal"]
 	path = Plugins/LeapUnreal
-	url = https://github.com/JimSimons-UH/LeapUnreal.git
-	branch = ScreenTop
+url=https://gitlab.ultrahaptics.com/creative/hand-interaction-toolkit/unreal/unrealtracking.git
+	branch = RebrandingTest
